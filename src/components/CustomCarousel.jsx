@@ -13,11 +13,11 @@ const CustomCarousel = () => {
       stopOnHover
     >
       <div>
-        <img src="https://via.placeholder.com/600x400?text=Slide+1" alt="Slide 1" />
+        <img src="../src/assets/pic1.jpg" alt="Slide 1" />
         <p className="legend">First Slide</p>
       </div>
       <div>
-        <img src="https://via.placeholder.com/600x400?text=Slide+2" alt="Slide 2" />
+        <img src="../src/assets/pic2.jpg" alt="Slide 2" />
         <p className="legend">Second Slide</p>
       </div>
     </Carousel>

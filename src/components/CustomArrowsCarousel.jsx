@@ -25,11 +25,11 @@ const CustomArrowsCarousel = () => {
       }
     >
       <div>
-        <img src="https://via.placeholder.com/600x400?text=Custom+1" alt="Custom Slide 1" />
+        <img src="../src/assets/pic3.jpg" alt="Custom Slide 1" />
         <p className="legend">Custom Slide 1</p>
       </div>
       <div>
-        <img src="https://via.placeholder.com/600x400?text=Custom+2" alt="Custom Slide 2" />
+        <img src="../src/assets/pic1.jpg" alt="Custom Slide 2" />
         <p className="legend">Custom Slide 2</p>
       </div>
     </Carousel>
